@@ -1,0 +1,25 @@
+{
+  "name": "chatbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovelybre132-spec/chatbot2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lovelybre132-spec/chatbot2/issues"
+  },
+  "homepage": "https://github.com/lovelybre132-spec/chatbot2#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
